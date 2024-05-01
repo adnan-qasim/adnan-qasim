@@ -1,18 +1,18 @@
-# Hi there, I'm Md. Adnan Qasim 👋
+# Hi there, I'm Md. Adnan Qasim
 
 ## 👨‍💻 About Me
 - 🎓 I'm currently working as Backend Infrastructure Developer at [@cataxapp](https://github.com/cataxapp)
 - 🌱 I’m currently learning Project and Infrastructure Management 
 - 👯 I’m looking to collaborate on Projects of Python Backend and Artificial Intelligence 
 - 🤔 I’m looking for help with learning AI / ML 
-- ⚡ Fun fact: I don't give up on anything once I start learning it 💪
+- ⚡ Fun fact: I don't give up on anything once I start learning it 
 
 ## 🛠 Skills
 - **Languages:** Python (Expert), C++, R, Java, Shell Scripting
 - **Frameworks/Libraries:** FastAPI, Numpy, Pandas, TensorFlow, DJango
 - **Tools:** VS Code, Docker, Jupyter, Miro, NGINX, AWS
 - **Databases:** MongoDB, Cassandra, CouchBase, PostgreSQL, MySQL
-- **Others:** Remote Server Management, 
+- **Others:** Remote Server Management, Logic Building
 
 ## 📈 GitHub Stats
 
