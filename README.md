@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with learning AI / ML 
 - ⚡ Fun fact: I don't give up on anything once I start learning it 
 
-## 🛠 Skills
+## 🧮 Skills
 - **Languages:** Python (Expert), C++, R, Java, Shell Scripting
 - **Frameworks/Libraries:** FastAPI, Numpy, Pandas, TensorFlow, DJango
 - **Tools:** VS Code, Docker, Jupyter, Miro, NGINX, AWS
