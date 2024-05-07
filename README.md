@@ -18,8 +18,9 @@
 
 <p align="center">
 <a href="https://github.com/adnan-qasim">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-qasim&show_icons=true&theme=algolia" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-qasim&theme=algolia&layout=compact" alt="Top Languages" height="180em"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&" alt="adnan-qasim" /> 
+ <br><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-qasim&layout=compact" alt="Top Languages" height="180em"/>
 </a>
 </p>
 
