@@ -5,7 +5,7 @@ import { FaRegStar } from "react-icons/fa";
 const Careers = () => {
     return (
         <div className='w-full flex flex-col justify-center items-center'>
-            <section id="careers" className="min-h-screen pt-5 w-[900px]">
+            <section id="careers" className="min-h-screen pt-5 w-full sm:w-[600px] md:w-[900px]">
                 <div className="relative pb-5">
                     <div className="absolute inset-0">
                         <div className="container grid md:grid-cols-3 gap-8 items-center h-full">
@@ -58,7 +58,7 @@ const Careers = () => {
 
                 </div>
             </section>
-            <section id="careers" className="min-h-screen pt-5 w-[900px]">
+            <section id="careers" className="min-h-screen pt-5 w-full sm:w-[600px] md:w-[900px]">
                 <div className="relative pb-5">
                     <div className="absolute inset-0">
                         <div className="container grid md:grid-cols-3 gap-8 items-center h-full">
