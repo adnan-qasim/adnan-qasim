@@ -1,5 +1,5 @@
 # Hi there, I'm Md. Adnan Qasim
-<img src="https://www.deviantart.com/dbheroes/art/Goku-GIF-505634237" width="1000" height="520">
+<img src="https://github.com/adnan-qasim/adnan-qasim/blob/main/gokusmile.gif" width="1000" height="520">
 
 
 ## 👨‍💻 About Me
