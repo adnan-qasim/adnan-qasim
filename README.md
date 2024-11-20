@@ -18,11 +18,11 @@
 
 <p align="center">
 <a href="https://github.com/adnan-qasim">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&" alt="adnan-qasim" /> 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&theme=dark" alt="adnan-qasim" /> 
  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-qasim&layout=compact" alt="Top Languages" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-qasim&layout=compact&theme=dark" alt="Top Languages" height="180em"/>
  <br><br>
- <img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="1000" height="520">
+ <img src="https://visitcount.itsvg.in/api?id=Abhishekkhare77&icon=4&color=4" alt="Visit Counter" height="180em"/>
 </a>
 </p>
 
