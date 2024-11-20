@@ -1,5 +1,5 @@
 # Hi there, I'm Md. Adnan Qasim
-<img src="https://github.com/adnan-qasim/adnan-qasim/blob/main/gokusmile.gif" width="1000" height="520">
+<img src="https://github.com/adnan-qasim/adnan-qasim/blob/main/gokusmile.gif" width="1000" height="450">
 
 
 ## 👨‍💻 About Me
