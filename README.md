@@ -22,7 +22,7 @@
 <a href="https://github.com/adnan-qasim">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&theme=dark" alt="adnan-qasim" /> 
  <br><br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&theme=dark](https://github-readme-stats.vercel.app/api?username=adnan-qasim&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="adnan-qasim" /> 
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-qasim&theme=dark](https://github-readme-stats.vercel.app/api?username=adnan-qasim&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="adnan-qasim" />  -->
  <br><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-qasim&layout=compact&theme=dark" alt="Top Languages" height="180em"/>
  <br><br>
