@@ -28,6 +28,11 @@
  <br><br>
  <img src="https://visitcount.itsvg.in/api?id=adnan-qasim&icon=3&color=3" alt="Visit Counter" height="32em"/>
 </a>
+<br><br>
+<a href="https://discord.com/users/815292026018725900" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/815292026018725900?bg=1f1f1f&borderRadius=5px">
+</a>
+ 
 </p>
 
 ## 📫 Connect with me:
