@@ -1,0 +1,200 @@
+{
+    "colors": {
+        "primary": "#4F46E5",
+        "secondary": "#6B7280",
+        "accent": "#10B981",
+        "background": "#F9FAFB",
+        "text": "#111827"
+    },
+    "fonts": {
+        "heading": "Permanent Marker, cursive",
+        "subheading": "Roboto, sans-serif",
+        "body": "Roboto, sans-serif"
+    },
+    "background": "background.jpg",
+    "name": "Pascal van Gemert",
+    "subtitle": "..my Interactive Resume",
+    "block1": {
+        "title": "About Me",
+        "picture": "profile.jpg",
+        "content": "Hi, my name is Pascal van Gemert. I'm a Creative / Full Stack Developer from the Netherlands. Over the years, I've developed a skill set in a range of technologies and frameworks, including Laravel, VueJS, and Tailwind. I really value clean and readable code. Also, I'm very passionate about UX / UI. And last but not least, I am the proud father of two boys. I enjoy playing sports, and I'm a little bit of a geek now and then."
+    },
+    "block2": {
+        "title": "Career",
+        "data": [
+            {
+                "period": "current - june 2023",
+                "role": "Lead Developer @ Returnless (fulltime)",
+                "company": "Eindhoven",
+                "url": "https://returnless.com",
+                "description": "As the Lead Developer at Returnless, me and the team are developing an all-in-one Return Platform. Using Laravel combined with Vapor and a beautiful Vue3 / Tailwind front-end we deliver a sweatless return experience for our customers."
+            },
+            {
+                "period": "current - june 2023",
+                "role": "Lead Developer @ Returnless (fulltime)",
+                "company": "Eindhoven",
+                "url": "https://returnless.com",
+                "description": "As the Lead Developer at Returnless, me and the team are developing an all-in-one Return Platform. Using Laravel combined with Vapor and a beautiful Vue3 / Tailwind front-end we deliver a sweatless return experience for our customers."
+            },
+            {
+                "period": "current - june 2023",
+                "role": "Lead Developer @ Returnless (fulltime)",
+                "company": "Eindhoven",
+                "url": "https://returnless.com",
+                "description": "As the Lead Developer at Returnless, me and the team are developing an all-in-one Return Platform. Using Laravel combined with Vapor and a beautiful Vue3 / Tailwind front-end we deliver a sweatless return experience for our customers."
+            }
+        ]
+    },
+    "block3": {
+        "title": "Education",
+        "data": [
+            {
+                "period": "May 2014 - Mar 2014",
+                "degree": "Course @ Gamification (online)",
+                "institution": "Penn University",
+                "description": "I successfully completed a course on gamification, learning how to incorporate gaming elements and techniques into my daily work. I also enjoyed the close connection with UX that this approach brings."
+            },
+            {
+                "period": "May 2014 - Mar 2014",
+                "degree": "Course @ Gamification (online)",
+                "institution": "Penn University",
+                "description": "I successfully completed a course on gamification, learning how to incorporate gaming elements and techniques into my daily work. I also enjoyed the close connection with UX that this approach brings."
+            },
+            {
+                "period": "May 2014 - Mar 2014",
+                "degree": "Course @ Gamification (online)",
+                "institution": "Penn University",
+                "description": "I successfully completed a course on gamification, learning how to incorporate gaming elements and techniques into my daily work. I also enjoyed the close connection with UX that this approach brings."
+            }
+        ]
+    },
+    "block4": {
+        "title": "Abilities",
+        "description": "Here is a summary of my most important skills and abilities as a Creative Web Developer:",
+        "data": [
+            {
+                "category": "coding",
+                "skills": [
+                    {
+                        "skill": "HTML/5",
+                        "time": "3 years",
+                        "logo": "html5.png",
+                        "star": 5
+                    },
+                    {
+                        "skill": "CSS/3",
+                        "time": "3 years",
+                        "logo": "css3.png",
+                        "star": 5
+                    },
+                    {
+                        "skill": "JavaScript",
+                        "time": "2 years",
+                        "logo": "javascript.png",
+                        "star": 4
+                    }
+                ]
+            },
+            {
+                "category": "languages",
+                "skills": [
+                    {
+                        "skill": "Dutch",
+                        "time": "native",
+                        "logo": "netherlands.png",
+                        "star": 5
+                    },
+                    {
+                        "skill": "English",
+                        "time": "fluent",
+                        "logo": "uk.png",
+                        "star": 4
+                    }
+                ]
+            },
+            {
+                "category": "tools",
+                "skills": [
+                    {
+                        "skill": "Git",
+                        "time": "2 years",
+                        "logo": "git.png",
+                        "star": 4
+                    },
+                    {
+                        "skill": "Docker",
+                        "time": "1 year",
+                        "logo": "docker.png",
+                        "star": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "block5": {
+        "title": "Projects",
+        "data": [
+            {
+                "name": "Jhon doe",
+                "work": "Designer",
+                "url": "https://example.com/project-a",
+                "image": "project-a.jpg",
+                "heading": "A web application that allows users to track their tasks and manage their time effectively.",
+                "description": [
+                    "A web application that allows users to track their tasks and manage their time effectively.",
+                    "Features include task creation, deadlines, reminders, and progress tracking.",
+                    "Built using React for the front-end and Node.js for the back-end."
+                ]
+            },
+            {
+                "name": "Jhon doe",
+                "work": "Designer",
+                "url": "https://example.com/project-a",
+                "image": "project-a.jpg",
+                "heading": "A web application that allows users to track their tasks and manage their time effectively.",
+                "description": [
+                    "A web application that allows users to track their tasks and manage their time effectively.",
+                    "Features include task creation, deadlines, reminders, and progress tracking.",
+                    "Built using React for the front-end and Node.js for the back-end."
+                ]
+            },
+            {
+                "name": "Jhon doe",
+                "work": "Designer",
+                "url": "https://example.com/project-a",
+                "image": "project-a.jpg",
+                "heading": "A web application that allows users to track their tasks and manage their time effectively.",
+                "description": [
+                    "A web application that allows users to track their tasks and manage their time effectively.",
+                    "Features include task creation, deadlines, reminders, and progress tracking.",
+                    "Built using React for the front-end and Node.js for the back-end."
+                ]
+            }
+        ]
+    },
+    "block6": {
+        "title": "Contact",
+        "data": [
+            {
+                "contact_name": "email",
+                "logo": "email.png",
+                "value": "adnan@example.com"
+            },
+            {
+                "contact_name": "github",
+                "logo": "github.png",
+                "value": "github.com/adnan"
+            },
+            {
+                "contact_name": "linkedin",
+                "logo": "linkedin.png",
+                "value": "linkedin.com/in/adnan"
+            },
+            {
+                "contact_name": "google meet",
+                "logo": "calendar.png",
+                "value": "https://cal.com/mohammad-adnan/meet"
+            }
+        ]
+    }
+}
